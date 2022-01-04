@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react_robots/static/css/main.d71f9b4a.chunk.css",
-    "main.js": "/react_robots/static/js/main.db522253.chunk.js",
-    "main.js.map": "/react_robots/static/js/main.db522253.chunk.js.map",
-    "runtime-main.js": "/react_robots/static/js/runtime-main.69de7fbb.js",
-    "runtime-main.js.map": "/react_robots/static/js/runtime-main.69de7fbb.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/react_robots/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.31b2a7ff.chunk.js": "/react_robots/static/js/2.31b2a7ff.chunk.js",
-    "static/js/2.31b2a7ff.chunk.js.map": "/react_robots/static/js/2.31b2a7ff.chunk.js.map",
-    "index.html": "/react_robots/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/react_robots/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.d71f9b4a.chunk.css.map": "/react_robots/static/css/main.d71f9b4a.chunk.css.map",
-    "static/js/2.31b2a7ff.chunk.js.LICENSE.txt": "/react_robots/static/js/2.31b2a7ff.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/react_robots/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/react_robots-hooks/static/css/main.69404428.chunk.css",
+    "main.js": "/react_robots-hooks/static/js/main.db522253.chunk.js",
+    "main.js.map": "/react_robots-hooks/static/js/main.db522253.chunk.js.map",
+    "runtime-main.js": "/react_robots-hooks/static/js/runtime-main.1c24d4fa.js",
+    "runtime-main.js.map": "/react_robots-hooks/static/js/runtime-main.1c24d4fa.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/react_robots-hooks/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.31b2a7ff.chunk.js": "/react_robots-hooks/static/js/2.31b2a7ff.chunk.js",
+    "static/js/2.31b2a7ff.chunk.js.map": "/react_robots-hooks/static/js/2.31b2a7ff.chunk.js.map",
+    "index.html": "/react_robots-hooks/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/react_robots-hooks/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.69404428.chunk.css.map": "/react_robots-hooks/static/css/main.69404428.chunk.css.map",
+    "static/js/2.31b2a7ff.chunk.js.LICENSE.txt": "/react_robots-hooks/static/js/2.31b2a7ff.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/react_robots-hooks/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.69de7fbb.js",
+    "static/js/runtime-main.1c24d4fa.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.31b2a7ff.chunk.js",
-    "static/css/main.d71f9b4a.chunk.css",
+    "static/css/main.69404428.chunk.css",
     "static/js/main.db522253.chunk.js"
   ]
 }
